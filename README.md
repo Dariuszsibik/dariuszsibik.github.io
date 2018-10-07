@@ -4,6 +4,7 @@
 
 ## Used technologies:
 #### - react: 16.4.1
+#### - react-router
 #### - JSX
 #### - JavaScript
 #### - Bootstrap 
